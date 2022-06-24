@@ -8,3 +8,4 @@ if __name__ == '__main__':
 
     pygame.display.set_caption("Menu")
     main = MainMenu()
+# Test

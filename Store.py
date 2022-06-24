@@ -11,7 +11,7 @@ def singleton(class_):
 
         return instances[class_]
 
-    return getinstance
+    return getinstance 
 
 
 @singleton
